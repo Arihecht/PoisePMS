@@ -52,7 +52,8 @@ Ensure you have the JDBC driver in your project's build path.
 2. Follow the on-screen instructions to manage projects and associated personnel.
 
 3. ## Author
-   AriHecht
+[Ari Hecht](https://github.com/Arihecht)
+
 
 
 
